@@ -1,2 +1,2 @@
-# book-of-pattern
-Collection of Software Design Pattern with the examples
+# Book of Pattern
+is an repo contains collection of Software Design Pattern with the examples
